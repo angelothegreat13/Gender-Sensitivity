@@ -1,8 +1,7 @@
 #Gender Sensitivity System
 Survey System about Gender Preferences
 
-#Technologies
-Project is created with:
+#Technologies used in this project::
 * HTML
 * CSS
 * Bootstrap
